@@ -1,0 +1,51 @@
+{
+  "status": "Integrity only; no test model scores computed",
+  "categories": {
+    "bottle": {
+      "train_good": 209,
+      "test_by_type": {
+        "broken_large": 20,
+        "broken_small": 22,
+        "contamination": 21,
+        "good": 20
+      },
+      "anomalous_masks": 63,
+      "decoded_png_count": 355,
+      "image_and_mask_sizes": {
+        "(900, 900)": 355
+      }
+    },
+    "carpet": {
+      "train_good": 280,
+      "test_by_type": {
+        "color": 19,
+        "cut": 17,
+        "good": 28,
+        "hole": 17,
+        "metal_contamination": 17,
+        "thread": 19
+      },
+      "anomalous_masks": 89,
+      "decoded_png_count": 486,
+      "image_and_mask_sizes": {
+        "(1024, 1024)": 486
+      }
+    },
+    "screw": {
+      "train_good": 320,
+      "test_by_type": {
+        "good": 41,
+        "manipulated_front": 24,
+        "scratch_head": 24,
+        "scratch_neck": 25,
+        "thread_side": 23,
+        "thread_top": 23
+      },
+      "anomalous_masks": 119,
+      "decoded_png_count": 599,
+      "image_and_mask_sizes": {
+        "(1024, 1024)": 599
+      }
+    }
+  }
+}

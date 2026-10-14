@@ -1,0 +1,1 @@
+{"size": 224, "std_floor": 0.02, "sigma": 4.0, "split_seed": 415, "subset_seeds": [17, 29, 43], "fractions": [0.25, 0.5, 1.0]}

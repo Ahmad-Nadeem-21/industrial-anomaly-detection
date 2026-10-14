@@ -1,0 +1,27 @@
+{
+  "archive": "mvtec_anomaly_detection.tar.xz",
+  "archive_bytes": 5264982680,
+  "sha256": "cf4313b13603bec67abb49ca959488f7eedce2a9f7795ec54446c649ac98cd3d",
+  "source": "User-provided archive described as official download; not independently authenticated",
+  "selected_categories": [
+    "bottle",
+    "carpet",
+    "screw"
+  ],
+  "extracted_file_counts": {
+    "readme.txt": 1,
+    "license.txt": 1,
+    "bottle": 357,
+    "carpet": 488,
+    "screw": 601
+  },
+  "extracted_bytes": 1093497764,
+  "scanned_entries": 6880,
+  "preserved_notices": [
+    "readme.txt",
+    "license.txt"
+  ],
+  "elapsed_seconds": 94.48573710001074,
+  "extraction_checks": "Paths confined to target; links and special entries rejected; exclusive file creation; file sizes checked",
+  "test_evaluation_performed": false
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "original_relative_path": "mvtec_anomaly_detection.tar.xz",
+    "archive_path": "../CS415 Final Project Archive/mvtec_anomaly_detection.tar.xz",
+    "bytes": 5264982680
+  },
+  {
+    "original_relative_path": "Final Project Instructions.pdf",
+    "archive_path": "../CS415 Final Project Archive/Final Project Instructions.pdf",
+    "bytes": 131884
+  },
+  {
+    "original_relative_path": "artifacts\\synthetic_smoke",
+    "archive_path": "../CS415 Final Project Archive/artifacts/synthetic_smoke",
+    "bytes": 671860
+  },
+  {
+    "original_relative_path": "artifacts\\independent_verification_smoke",
+    "archive_path": "../CS415 Final Project Archive/artifacts/independent_verification_smoke",
+    "bytes": 671863
+  },
+  {
+    "original_relative_path": "artifacts\\independent_verification_audit",
+    "archive_path": "../CS415 Final Project Archive/artifacts/independent_verification_audit",
+    "bytes": 12592
+  },
+  {
+    "original_relative_path": "artifacts\\independent_verification_quarter",
+    "archive_path": "../CS415 Final Project Archive/artifacts/independent_verification_quarter",
+    "bytes": 316738
+  },
+  {
+    "original_relative_path": "artifacts\\bottle_normal_pilot_20261014",
+    "archive_path": "../CS415 Final Project Archive/artifacts/bottle_normal_pilot_20261014",
+    "bytes": 137326079
+  }
+]
